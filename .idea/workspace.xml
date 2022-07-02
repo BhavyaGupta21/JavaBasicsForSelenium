@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="New project created">
-      <change afterPath="$PROJECT_DIR$/src/dataType/Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataType/Float.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataType/Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataType/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Data Types">
+      <change afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +40,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loops" />
       <recent name="dataType" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Float">
-    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataType.Char" />
+  <component name="RunManager" selected="Application.DoWhileLoop">
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.DoWhileLoop" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataType.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.ForLoop" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataType.Int" />
       <module name="JavaLearningMO" />
@@ -85,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataType.Variables" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.WhileLoop" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataType.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,10 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.Float" />
         <item itemvalue="Application.Int" />
-        <item itemvalue="Application.Char" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656745152142</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data Types">
+      <created>1656746739588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656746739588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="New project created" />
+    <MESSAGE value="Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Types" />
   </component>
 </project>
