@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Class Objects and Methods">
-      <change afterPath="$PROJECT_DIR$/src/variables/InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/InstanceVariable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/LocalVariable.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="variables">
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Strings5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +43,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="strings" />
       <recent name="variables" />
       <recent name="classDemo" />
       <recent name="conditionalStatements" />
       <recent name="loops" />
-      <recent name="dataType" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceVariable1">
-    <configuration name="InstanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.InstanceVariable" />
+  <component name="RunManager" selected="Application.Strings5">
+    <configuration name="Strings1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings1" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceVariable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.InstanceVariable1" />
+    <configuration name="Strings2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings2" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.LocalVariable" />
+    <configuration name="Strings3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings3" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classDemo.SecondClass" />
+    <configuration name="Strings4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings4" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classDemo.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classDemo.ThirdClass" />
+    <configuration name="Strings5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings5" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classDemo.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InstanceVariable1" />
-        <item itemvalue="Application.InstanceVariable" />
-        <item itemvalue="Application.LocalVariable" />
-        <item itemvalue="Application.ThirdClass" />
-        <item itemvalue="Application.SecondClass" />
+        <item itemvalue="Application.Strings5" />
+        <item itemvalue="Application.Strings4" />
+        <item itemvalue="Application.Strings3" />
+        <item itemvalue="Application.Strings2" />
+        <item itemvalue="Application.Strings1" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656757876629</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="variables">
+      <created>1656906224990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656906224990</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +197,7 @@
     <MESSAGE value="Loops" />
     <MESSAGE value="Conditional Statements" />
     <MESSAGE value="Class Objects and Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Objects and Methods" />
+    <MESSAGE value="variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="variables" />
   </component>
 </project>
