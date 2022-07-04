@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Strings">
-      <change afterPath="$PROJECT_DIR$/src/parameters/DynamicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parameters/PassParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parameters/ReturningValues.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Passing Parameter and Returning value">
+      <change afterPath="$PROJECT_DIR$/src/compileTimePolymorphism/Compile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,20 @@
       <recent name="conditionalStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReturningValues">
+  <component name="RunManager" selected="Application.Compile">
+    <configuration name="Compile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compileTimePolymorphism.Compile" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compileTimePolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PassParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parameters.PassParameter" />
       <module name="JavaLearningMO" />
@@ -67,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="parameters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strings3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Strings3" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Compile" />
         <item itemvalue="Application.ReturningValues" />
         <item itemvalue="Application.PassParameter" />
         <item itemvalue="Application.Strings5" />
         <item itemvalue="Application.Strings4" />
-        <item itemvalue="Application.Strings3" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656918006073</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Passing Parameter and Returning value">
+      <created>1656919276397</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656919276397</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +208,7 @@
     <MESSAGE value="Class Objects and Methods" />
     <MESSAGE value="variables" />
     <MESSAGE value="Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
+    <MESSAGE value="Passing Parameter and Returning value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Passing Parameter and Returning value" />
   </component>
 </project>
