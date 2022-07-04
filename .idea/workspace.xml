@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Arrays">
-      <change afterPath="$PROJECT_DIR$/src/inheritance/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass3.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/AdvancedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/AdvancedCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/AdvancedCalculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/AdvancedCalculator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,14 +43,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interfaces" />
       <recent name="inheritance" />
       <recent name="array" />
       <recent name="parameters" />
       <recent name="strings" />
-      <recent name="variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChildClass2">
+  <component name="RunManager" selected="Application.AdvancedCalculator1">
+    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.AdvancedCalculator" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedCalculator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.AdvancedCalculator1" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.ChildClass" />
       <module name="JavaLearningMO" />
@@ -89,39 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SingleArray1" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="twoDimentionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.twoDimentionalArray" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedCalculator1" />
+        <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.ChildClass2" />
         <item itemvalue="Application.ChildClass1" />
         <item itemvalue="Application.ChildClass" />
-        <item itemvalue="Application.twoDimentionalArray" />
-        <item itemvalue="Application.SingleArray1" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656923570775</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Inheritance">
+      <created>1656924873132</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656924873132</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +237,7 @@
     <MESSAGE value="Passing Parameter and Returning value" />
     <MESSAGE value="Polymorphism" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>
