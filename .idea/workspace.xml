@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="variables">
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Strings5.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Strings">
+      <change afterPath="$PROJECT_DIR$/src/parameters/DynamicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parameters/PassParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parameters/ReturningValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +40,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="parameters" />
       <recent name="strings" />
       <recent name="variables" />
       <recent name="classDemo" />
       <recent name="conditionalStatements" />
-      <recent name="loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Strings5">
-    <configuration name="Strings1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Strings1" />
+  <component name="RunManager" selected="Application.ReturningValues">
+    <configuration name="PassParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parameters.PassParameter" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="parameters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Strings2" />
+    <configuration name="ReturningValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parameters.ReturningValues" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="parameters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturningValues" />
+        <item itemvalue="Application.PassParameter" />
         <item itemvalue="Application.Strings5" />
         <item itemvalue="Application.Strings4" />
         <item itemvalue="Application.Strings3" />
-        <item itemvalue="Application.Strings2" />
-        <item itemvalue="Application.Strings1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656906224990</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Strings">
+      <created>1656918006073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656918006073</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +202,7 @@
     <MESSAGE value="Conditional Statements" />
     <MESSAGE value="Class Objects and Methods" />
     <MESSAGE value="variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables" />
+    <MESSAGE value="Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
   </component>
 </project>
