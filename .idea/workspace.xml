@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/array/SingleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SingleArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/twoDimentionalArray.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/ChildClass3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +42,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="inheritance" />
       <recent name="array" />
       <recent name="parameters" />
       <recent name="strings" />
       <recent name="variables" />
-      <recent name="classDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.twoDimentionalArray">
-    <configuration name="Compile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compileTimePolymorphism.Compile" />
+  <component name="RunManager" selected="Application.ChildClass2">
+    <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.ChildClass" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compileTimePolymorphism.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturningValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameters.ReturningValues" />
+    <configuration name="ChildClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.ChildClass1" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parameters.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SingleArray" />
+    <configuration name="ChildClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.ChildClass2" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChildClass2" />
+        <item itemvalue="Application.ChildClass1" />
+        <item itemvalue="Application.ChildClass" />
         <item itemvalue="Application.twoDimentionalArray" />
         <item itemvalue="Application.SingleArray1" />
-        <item itemvalue="Application.SingleArray" />
-        <item itemvalue="Application.Compile" />
-        <item itemvalue="Application.ReturningValues" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656920123970</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Arrays">
+      <created>1656923570775</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656923570775</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +228,7 @@
     <MESSAGE value="Strings" />
     <MESSAGE value="Passing Parameter and Returning value" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
