@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Wrapper Classes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList5.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/set/ConvertListToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/HashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/LinkedHashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/TreeSet1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,66 +43,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="set" />
       <recent name="list" />
       <recent name="wrapperClasses" />
       <recent name="finalKeyword" />
       <recent name="interfaces" />
-      <recent name="inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList5">
-    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ArrayList1" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ArrayList2" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ArrayList3" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayList4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ArrayList4" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConvertListToSet">
     <configuration name="ArrayList5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.ArrayList5" />
       <module name="JavaLearningMO" />
@@ -118,13 +64,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConvertListToSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.ConvertListToSet" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.HashSet1" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.LinkedHashSet1" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.TreeSet1" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertListToSet" />
+        <item itemvalue="Application.TreeSet1" />
+        <item itemvalue="Application.LinkedHashSet1" />
+        <item itemvalue="Application.HashSet1" />
         <item itemvalue="Application.ArrayList5" />
-        <item itemvalue="Application.ArrayList4" />
-        <item itemvalue="Application.ArrayList3" />
-        <item itemvalue="Application.ArrayList2" />
-        <item itemvalue="Application.ArrayList1" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657008291411</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ArrayList">
+      <created>1657016881126</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657016881126</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +309,7 @@
     <MESSAGE value="This Keyword" />
     <MESSAGE value="Final Keyword" />
     <MESSAGE value="Wrapper Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper Classes" />
+    <MESSAGE value="ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
   </component>
 </project>
