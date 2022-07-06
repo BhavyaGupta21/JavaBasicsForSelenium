@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/set/ConvertListToSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/HashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/LinkedHashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/TreeSet1.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Set Interface">
+      <change afterPath="$PROJECT_DIR$/src/hashMap/HashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashMap/HashMap2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,27 +41,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hashMap" />
       <recent name="set" />
       <recent name="list" />
       <recent name="wrapperClasses" />
       <recent name="finalKeyword" />
-      <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertListToSet">
-    <configuration name="ArrayList5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ArrayList5" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HashMap2">
     <configuration name="ConvertListToSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.ConvertListToSet" />
       <module name="JavaLearningMO" />
@@ -77,12 +62,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.HashSet1" />
+    <configuration name="HashMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.HashMap1" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="hashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.HashMap2" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMap2" />
+        <item itemvalue="Application.HashMap1" />
         <item itemvalue="Application.ConvertListToSet" />
         <item itemvalue="Application.TreeSet1" />
         <item itemvalue="Application.LinkedHashSet1" />
-        <item itemvalue="Application.HashSet1" />
-        <item itemvalue="Application.ArrayList5" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657016881126</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Set Interface">
+      <created>1657018526445</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1657018526445</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +315,7 @@
     <MESSAGE value="Final Keyword" />
     <MESSAGE value="Wrapper Classes" />
     <MESSAGE value="ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
+    <MESSAGE value="Set Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Interface" />
   </component>
 </project>
