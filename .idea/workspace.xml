@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Set Interface">
-      <change afterPath="$PROJECT_DIR$/src/hashMap/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMap/HashMap2.java" afterDir="false" />
+    <list default="true" id="1ffc5174-53dc-41b5-84d2-59a3d6bc4453" name="Changes" comment="Map and HashMap">
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +44,46 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exceptionHandling" />
       <recent name="hashMap" />
       <recent name="set" />
       <recent name="list" />
       <recent name="wrapperClasses" />
-      <recent name="finalKeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMap2">
-    <configuration name="ConvertListToSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.ConvertListToSet" />
+  <component name="RunManager" selected="Application.ExceptionHandling2">
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.ExceptionHandling" />
       <module name="JavaLearningMO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.ExceptionHandling1" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.ExceptionHandling2" />
+      <module name="JavaLearningMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.LinkedHashSet1" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.TreeSet1" />
-      <module name="JavaLearningMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandling2" />
+        <item itemvalue="Application.ExceptionHandling1" />
+        <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="Application.HashMap2" />
         <item itemvalue="Application.HashMap1" />
-        <item itemvalue="Application.ConvertListToSet" />
-        <item itemvalue="Application.TreeSet1" />
-        <item itemvalue="Application.LinkedHashSet1" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657018526445</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Map and HashMap">
+      <created>1657093332718</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657093332718</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +326,18 @@
     <MESSAGE value="Wrapper Classes" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Set Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set Interface" />
+    <MESSAGE value="Map and HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map and HashMap" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptionHandling/ExceptionHandling.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
